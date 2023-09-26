@@ -1,0 +1,30 @@
+/* CAREER STYLESHEET */
+.title-career{
+    margin: 3rem 0;
+}
+
+.table-moments .headline-table{
+    margin: 50px 0px 35px 0;
+    font-size: 25px;
+}
+
+.table-moments{
+    text-align: center;
+    padding:0 20%;
+    margin-bottom:5rem;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width:100%;
+}
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+}
+  
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
